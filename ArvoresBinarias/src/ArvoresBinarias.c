@@ -12,9 +12,9 @@
 #include <stdlib.h>
 
 #define size 10
-#define R -1
-#define E 1
-#define D 2
+#define R -1 //Root
+#define E 1 //Left
+#define D 2 //Rigth
 
 
 typedef struct str_no {
